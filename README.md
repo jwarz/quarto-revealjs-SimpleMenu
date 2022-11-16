@@ -1,5 +1,7 @@
 # SimpleMenu Extension For Quarto
 
+All credit goes to [Martinomagnifico](https://github.com/Martinomagnifico) and his [simple menu plugin](https://github.com/Martinomagnifico/reveal.js-simplemenu).
+
 _TODO_: Add a short description of your extension.
 
 ## Installing
