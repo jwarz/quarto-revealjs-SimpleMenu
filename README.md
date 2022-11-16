@@ -9,7 +9,7 @@ _TODO_: Add a short description of your extension.
 _TODO_: Replace the `<github-organization>` with your GitHub organization.
 
 ```bash
-quarto add <github-organization>/simplemenu
+quarto add jwarz/quarto-revealjs-SimpleMenu
 ```
 
 This will install the extension under the `_extensions` subdirectory.
