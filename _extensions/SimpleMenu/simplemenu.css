@@ -1,7 +1,6 @@
 /* Make space for the menu bar at the top */
-.slides {
-  inset: 55% auto auto 50% !important;
-  transform: translate(-50%, -50%) scale(0.95);
+.reveal h2 {
+    margin-top: 1em;
 }
 
 .menubar {
